@@ -10,3 +10,5 @@
   - https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript
 - does-my-number-look-big-in-this - 6 kyu
   - https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript
+- playing-with-digits - 6 kyu
+  - https://www.codewars.com/kata/5552101f47fc5178b1000050/train/javascript
