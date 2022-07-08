@@ -6,3 +6,5 @@
   - https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript
 - find-the-parity-outlier - 6 kyu
   - https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript
+- create-phone-number - 6 kyu
+  - https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript
