@@ -23,3 +23,5 @@
   - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript
 - highest-scoring-word
   - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript
+- two-sum
+  - https://www.codewars.com/kata/52c31f8e6605bcc646000082
