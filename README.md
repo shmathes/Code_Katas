@@ -25,3 +25,5 @@
   - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript
 - two-sum
   - https://www.codewars.com/kata/52c31f8e6605bcc646000082
+- the-supermarket-queue
+  - https://www.codewars.com/kata/57b06f90e298a7b53d000a86
