@@ -29,3 +29,7 @@
   - https://www.codewars.com/kata/57b06f90e298a7b53d000a86
 - weird-string-case
   - https://www.codewars.com/kata/52b757663a95b11b3d00062d
+
+## 5kyu
+- valid-parentheses
+  - https://www.codewars.com/kata/52774a314c2333f0a7000688
