@@ -31,6 +31,8 @@
   - https://www.codewars.com/kata/57b06f90e298a7b53d000a86
 - weird-string-case
   - https://www.codewars.com/kata/52b757663a95b11b3d00062d
+- find-the-missing-letter
+  - https://www.codewars.com/kata/5839edaa6754d6fec10000a2
 
 ## 5kyu
 - valid-parentheses
