@@ -7,6 +7,8 @@
 ## 7kyu
 - highest-and-lowest
   - https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript
+- get-the-middle-character
+  - https://www.codewars.com/kata/56747fd5cb988479af000028
 
 ## 6kyu
 - find-the-parity-outlier
