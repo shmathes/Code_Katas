@@ -3,6 +3,8 @@
 ## 8kyu
 - convert-boolean-values-to-strings-yes-or-no
   - https://www.codewars.com/kata/53369039d7ab3ac506000467/train/javascript
+- count-by-x
+    - https://www.codewars.com/kata/5513795bd3fafb56c200049e
 
 ## 7kyu
 - highest-and-lowest
