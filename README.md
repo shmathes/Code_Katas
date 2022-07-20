@@ -35,6 +35,8 @@
   - https://www.codewars.com/kata/52b757663a95b11b3d00062d
 - find-the-missing-letter
   - https://www.codewars.com/kata/5839edaa6754d6fec10000a2
+- build-tower
+  - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
 
 ## 5kyu
 - valid-parentheses
