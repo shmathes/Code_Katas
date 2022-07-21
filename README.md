@@ -37,6 +37,8 @@
   - https://www.codewars.com/kata/5839edaa6754d6fec10000a2
 - build-tower
   - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
+- unique-in-order
+  - https://www.codewars.com/kata/54e6533c92449cc251001667
 
 ## 5kyu
 - valid-parentheses
