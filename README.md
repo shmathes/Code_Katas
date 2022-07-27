@@ -5,6 +5,8 @@
   - https://www.codewars.com/kata/53369039d7ab3ac506000467/train/javascript
 - count-by-x
     - https://www.codewars.com/kata/5513795bd3fafb56c200049e
+- return-negative
+  - https://www.codewars.com/kata/55685cd7ad70877c23000102
 
 ## 7kyu
 - highest-and-lowest
