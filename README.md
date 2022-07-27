@@ -13,6 +13,8 @@
   - https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript
 - get-the-middle-character
   - https://www.codewars.com/kata/56747fd5cb988479af000028
+- two-to-one
+  - https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 
 ## 6kyu
 - find-the-parity-outlier
