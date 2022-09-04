@@ -45,6 +45,8 @@
   - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
 - unique-in-order
   - https://www.codewars.com/kata/54e6533c92449cc251001667
+- sort-the-odd
+  - https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
 
 ## 5kyu
 - valid-parentheses
