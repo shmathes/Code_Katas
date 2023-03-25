@@ -17,6 +17,8 @@
   - https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 - factorial
   - https://www.codewars.com/kata/57a049e253ba33ac5e000212
+- divide-and-conquer
+  - https://www.codewars.com/kata/57eaec5608fed543d6000021
 
 ## 6kyu
 - find-the-parity-outlier
